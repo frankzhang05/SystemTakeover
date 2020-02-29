@@ -1,5 +1,5 @@
 # SystemTakeover!
-A simple script to open most of the remote access features of macOS. (It's really dangerous, so undo script is also provided.)
+A simple script to turn on most of the remote access features of macOS. (It's really dangerous, so undo script is also provided.)
 
 # Looking for SystemTakeBack!?
 Check the [releases](https://github.com/frankzhang05/systemtakeover/releases) tab to download the app!
