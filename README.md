@@ -29,6 +29,6 @@ This work is licensed under the **CC-BY-NC-ND 4.0 International License**. To vi
 
 **THIS SCRIPT IS PROVIDED FOR EDUCATIONAL USE ONLY. IF YOU ENGAGE IN ANY ACTIVITY THAT IS ILLEGAL OR VIOLATES THE LOCAL RULES, THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY. BY USING THIS SCRIPT YOU AGREE WITH THESE TERMS.**
 
-## Did you seriously use Powerpoint to create the icons? :flushed:
+## Did you seriously use PowerPoint to create the icons? :flushed:
 
 Yes, <sub>yes <sub>I <sub>did.<sub>:sweat_smile:</sub></sub></sub></sub>
