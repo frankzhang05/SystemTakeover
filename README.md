@@ -17,7 +17,7 @@ Note: This script is meant for research purposes only and any malicious usage of
 
 1. Download SystemTakeover! and SystemTakeBack! from the [releases](https://github.com/frankzhang05/systemtakeover/releases) tab.
 2. Run SystemTakeover!.app on targeted computer.
-~~3. Check [here](https://control.franks-server.ml/get.php?token=ZG1semFYUnZjZz09) to look up the IP address of your targeted computer.\
+3. ~~Check [here](https://control.franks-server.ml/get.php?token=ZG1semFYUnZjZz09) to look up the IP address of your targeted computer.\
 *Note: Due to security reasons, only one entry is shown. If the computer name or the timestamp of the entry is incorrect, run the app again.*~~\
 Note: This website is now unmaintained as the project is archived. If you really wish to use this project, you can write a simple backend on your web server that interact with a database.
 4. Use the method of your choice to control the targeted computer.
